@@ -10,7 +10,6 @@ The project includes risk assessment, internal audit analysis, and control imple
 ### 1. Risk Assessment
 - Asset identification
 - Threat & vulnerability analysis
-- Risk scoring (Likelihood × Impact)
 - Risk register with control mapping
 
 ### 2. Internal Audit
@@ -36,5 +35,3 @@ The project includes risk assessment, internal audit analysis, and control imple
 - Internal Audit Methodology
 - ISO 27001 Compliance
 
-## 🎯 Objective
-This project showcases practical implementation of ISMS concepts for transitioning into IT GRC roles.
